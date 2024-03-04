@@ -12,7 +12,7 @@ This repository contains Helm charts to simplify the deployment of a sample MySQ
 
 This Helm chart simplifies the deployment of a MySQL database in a Kubernetes cluster. It includes configurable parameters to customize the deployment according to your specific needs.
 
-You can install helm [here](https://github.com/helm/helm/releases)
+You can download and install helm from [here](https://github.com/helm/helm/releases)
 
 #### Usage
 
