@@ -1,4 +1,4 @@
-# Sample Helm Chart for MySQL Application
+# Helm Chart for MySQL Application
 
 ## Overview
 
@@ -27,6 +27,5 @@ This Helm chart simplifies the deployment of a MySQL database in a Kubernetes cl
 3. Install mysql application on your cluster
 
    ```bash
-   helm install <name for release > mysql-app/ --values mysql-app/values.yaml 
-
+   helm install <name for release > mysql-app/ --values mysql-app/values.yaml
    
