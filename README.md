@@ -1,4 +1,4 @@
-# Helm Chart for MySQL Application
+# Helm Charts
 
 ## Overview
 
